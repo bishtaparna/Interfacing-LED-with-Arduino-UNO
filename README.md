@@ -10,4 +10,6 @@ Other end of resistor is connected to pin number 2 (Digital input/ output pin) o
 
 # Simulation
 
+As the code get's uploaded in the microcontroller, the LED will glow as per the delay written in the void loop()
+
 ![2022-09-15](https://user-images.githubusercontent.com/100293680/190434875-40ae66e0-f7d8-40f1-afe2-77904f66a878.png)
