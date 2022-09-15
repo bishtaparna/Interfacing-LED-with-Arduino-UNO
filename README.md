@@ -2,6 +2,10 @@
 
 # Circuit 
 
+In this circuit the cathode of LED is connected to the ground and it's anode is connected to a 220 ohm resistor.
+As the excess current can burn out the LED, hence to limit the current through LED we use resistor.
+Other end of resistor is connected to pin number 2 (Digital input/ output pin) of Arduino.
+
 ![2022-09-15 (1)](https://user-images.githubusercontent.com/100293680/190434819-e5dbbd67-bc4c-493d-b4e3-53e5d9ebe2cc.png)
 
 # Simulation
